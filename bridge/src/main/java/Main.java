@@ -46,5 +46,6 @@ public class Main {
         netflixVideo.play("abc.mp4");
         System.out.println("This is Rusiri");
         System.out.println("This is Layo");
+        System.out.println("Hello. This is Layo");
     }
 }
