@@ -47,5 +47,6 @@ public class Main {
         System.out.println("This is Rusiri");
         System.out.println("This is Layo");
         System.out.println("Hello. This is Layo");
+        System.out.println("Hello. This is Alex");
     }
 }
