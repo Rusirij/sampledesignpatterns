@@ -35,7 +35,6 @@ public class Main {
         swiggyStore.addItems(new GroceryItemAdapter(new GroceryProduct()));
         System.out.println("This is Rusiri");
         System.out.println("Hello! This is Layo");
-        System.out.println("Hello! This is Alex");
 
 
     }
