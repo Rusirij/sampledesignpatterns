@@ -34,6 +34,7 @@ public class Main {
         //Adapter grocery which was incompatible with food.
         swiggyStore.addItems(new GroceryItemAdapter(new GroceryProduct()));
         System.out.println("This is Rusiri");
+        System.out.println("Hello! This is Layo");
 
 
     }
